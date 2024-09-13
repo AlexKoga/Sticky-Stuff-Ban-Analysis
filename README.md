@@ -79,3 +79,5 @@ It is impossible to say for sure if these pitchers who saw decreases were cheati
 due to the ban of sticky substances. These changes could also be from pitchers having an excellent season before the ban, and an average one after. The changes could also
 be explained from just general fatigue as the season wears on. However, based on our evidence, there is a strong case that some pitchers were indeed cheating.
 We believe if we got another sample of the same size we would have similar results because this group of pitchers is about as unique as it gets in terms of age, experience, and pitching style.
+
+Data - https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2021&month=1000&season1=2021&ind=0&team=0&rost=0&age=0&filter=&players=0&startdate=2021-04-01&enddate=2021-06-21
